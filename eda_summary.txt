@@ -1,0 +1,102 @@
+Loading dataset...
+
+=== DATA CLEANING ===
+Raw dataset shape: (162, 10)
+After dropping fully empty rows: (162, 10)
+Duplicate rows removed: 12
+After removing duplicates: (150, 10)
+
+Missing values before imputation: 32
+Month            0
+Case_No          0
+DOB              0
+Nationality      8
+Gender           8
+DoctorLicense    0
+DoctorName       0
+Doctor Type      0
+Doctor Status    8
+CMI Value        8
+Age              0
+dtype: int64
+
+Missing values after imputation: 0
+
+Cleaned dataset saved to 'outputs/hospital_data_cleaned.csv'
+
+=== EXPLORATORY DATA ANALYSIS ===
+
+Summary statistics (Age, CMI Value):
+         Age  CMI Value
+count  150.0     150.00
+mean   47.19       1.31
+std     15.6       0.84
+min     22.0       0.13
+25%    33.25       0.71
+50%     47.5       1.16
+75%     59.0       1.69
+max     76.0       5.11
+
+Case count by Month:
+Month
+May          20
+February     15
+July         14
+December     14
+September    13
+June         13
+October      12
+November     11
+March        11
+August       10
+April         9
+January       8
+Name: count, dtype: int64
+
+Gender distribution:
+Gender
+Male       78
+Female     64
+Unknown     8
+Name: count, dtype: int64
+
+Nationality distribution:
+Nationality
+Emirati        18
+Bangladeshi    17
+Nepali         15
+Egyptian       15
+Indian         15
+American       14
+Filipino       14
+Saudi          14
+British        13
+Unknown         8
+Pakistani       7
+Name: count, dtype: int64
+
+Doctor Type distribution:
+Doctor Type
+Consultant           39
+General Physician    39
+Specialist           38
+Surgeon              34
+Name: count, dtype: int64
+
+Doctor Status distribution:
+Doctor Status
+On Leave    56
+Inactive    44
+Active      42
+Unknown      8
+Name: count, dtype: int64
+
+Average CMI Value by Doctor Type:
+Doctor Type
+Consultant           1.30
+General Physician    1.38
+Specialist           1.13
+Surgeon              1.47
+Name: CMI Value, dtype: float64
+
+All charts saved to 'outputs/charts/'

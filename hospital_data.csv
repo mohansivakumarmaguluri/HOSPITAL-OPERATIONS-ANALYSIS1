@@ -1,0 +1,163 @@
+Month,Case_No,DOB,Nationality,Gender,DoctorLicense,DoctorName,Doctor Type,Doctor Status,CMI Value
+November,CASE1071,04-03-1969,Nepali,Female,DL-1008,Dr. Anita Rao,Specialist,On Leave,1.0
+October,CASE1142,10-01-2002,Egyptian,Male,DL-1005,Dr. Michael Chen,Consultant,On Leave,0.13
+September,CASE1007,14-03-1961,,,DL-1008,Dr. Anita Rao,Surgeon,,
+July,CASE1004,11-10-1969,,,DL-1009,Dr. Omar Hassan,General Physician,,
+May,CASE1048,26-02-1964,Egyptian,Female,DL-1006,Dr. Fatima Noor,General Physician,On Leave,0.92
+August,CASE1017,26-02-1958,Indian,Male,DL-1009,Dr. Omar Hassan,Specialist,On Leave,0.7
+February,CASE1077,14-12-1990,British,Female,DL-1004,Dr. Priya Sharma,Surgeon,Inactive,0.48
+May,CASE1133,02-01-1979,American,Female,DL-1006,Dr. Fatima Noor,General Physician,On Leave,0.97
+August,CASE1102,14-02-2001,Bangladeshi,Female,DL-1004,Dr. Priya Sharma,Surgeon,Active,1.58
+October,CASE1041,10-10-1992,Nepali,Male,DL-1001,Dr. Ramesh Kumar,General Physician,On Leave,2.07
+July,CASE1016,09-05-2002,Filipino,Female,DL-1010,Dr. Lisa Fernandes,Specialist,Active,1.27
+April,CASE1137,17-03-1964,Saudi,Male,DL-1010,Dr. Lisa Fernandes,Consultant,Active,2.45
+March,CASE1042,24-02-1956,Bangladeshi,Male,DL-1002,Dr. Sarah Johnson,Specialist,Inactive,2.87
+October,CASE1057,13-11-1963,Emirati,Male,DL-1007,Dr. John Williams,Specialist,Inactive,0.64
+September,CASE1026,24-10-1964,Saudi,Female,DL-1008,Dr. Anita Rao,Specialist,On Leave,1.33
+October,CASE1043,02-02-1972,Bangladeshi,Male,DL-1002,Dr. Sarah Johnson,General Physician,Inactive,1.52
+July,CASE1032,31-01-1967,American,Male,DL-1008,Dr. Anita Rao,Consultant,Inactive,0.85
+September,CASE1147,29-12-1990,Indian,Male,DL-1002,Dr. Sarah Johnson,Consultant,On Leave,2.14
+March,CASE1058,21-10-1979,Filipino,Male,DL-1001,Dr. Ramesh Kumar,Surgeon,Active,0.89
+December,CASE1144,05-06-1971,Bangladeshi,Female,DL-1004,Dr. Priya Sharma,Specialist,Inactive,0.59
+December,CASE1122,25-09-1990,American,Male,DL-1005,Dr. Michael Chen,Surgeon,On Leave,1.31
+May,CASE1118,19-10-2002,Filipino,Female,DL-1008,Dr. Anita Rao,General Physician,On Leave,0.26
+October,CASE1142,10-01-2002,Egyptian,Male,DL-1005,Dr. Michael Chen,Consultant,On Leave,0.13
+October,CASE1069,21-01-2001,Saudi,Female,DL-1003,Dr. Ahmed Al Farsi,General Physician,Inactive,1.22
+March,CASE1093,27-05-1971,British,Female,DL-1010,Dr. Lisa Fernandes,General Physician,On Leave,0.65
+May,CASE1052,15-12-1953,Indian,Female,DL-1007,Dr. John Williams,Specialist,On Leave,0.77
+March,CASE1015,06-10-1973,British,Male,DL-1008,Dr. Anita Rao,Surgeon,On Leave,0.74
+July,CASE1006,05-09-1958,Pakistani,Female,DL-1002,Dr. Sarah Johnson,Surgeon,Active,2.01
+December,CASE1054,17-05-1963,Nepali,Male,DL-1002,Dr. Sarah Johnson,Surgeon,On Leave,1.49
+July,CASE1099,30-06-1982,Egyptian,Male,DL-1002,Dr. Sarah Johnson,Consultant,Active,0.49
+October,CASE1074,14-07-1956,Egyptian,Female,DL-1008,Dr. Anita Rao,Specialist,On Leave,1.99
+June,CASE1005,06-12-1974,British,Male,DL-1007,Dr. John Williams,Surgeon,Active,3.25
+February,CASE1066,16-08-1979,Bangladeshi,Female,DL-1007,Dr. John Williams,General Physician,On Leave,1.1
+January,CASE1013,20-04-1978,,,DL-1004,Dr. Priya Sharma,General Physician,,
+March,CASE1015,06-10-1973,British,Male,DL-1008,Dr. Anita Rao,Surgeon,On Leave,0.74
+February,CASE1025,07-08-1993,American,Male,DL-1002,Dr. Sarah Johnson,Specialist,On Leave,1.97
+December,CASE1039,11-11-1999,Egyptian,Male,DL-1007,Dr. John Williams,Specialist,Inactive,0.79
+March,CASE1129,18-03-1992,Nepali,Female,DL-1001,Dr. Ramesh Kumar,Surgeon,Active,1.7
+May,CASE1009,27-02-1957,Emirati,Male,DL-1004,Dr. Priya Sharma,Consultant,Inactive,1.4
+February,CASE1028,29-03-1972,Emirati,Male,DL-1008,Dr. Anita Rao,Surgeon,Active,0.92
+August,CASE1121,17-02-1976,Indian,Male,DL-1010,Dr. Lisa Fernandes,Surgeon,On Leave,0.54
+September,CASE1140,23-12-1962,Filipino,Male,DL-1008,Dr. Anita Rao,Specialist,Active,1.21
+May,CASE1132,05-12-1985,Nepali,Male,DL-1008,Dr. Anita Rao,Consultant,Active,0.6
+April,CASE1073,13-11-1967,British,Male,DL-1005,Dr. Michael Chen,General Physician,Active,2.53
+May,CASE1136,22-04-1989,Egyptian,Male,DL-1003,Dr. Ahmed Al Farsi,General Physician,On Leave,0.79
+October,CASE1044,25-11-1996,Pakistani,Female,DL-1010,Dr. Lisa Fernandes,Specialist,On Leave,0.68
+December,CASE1087,22-10-1964,Egyptian,Male,DL-1007,Dr. John Williams,General Physician,Inactive,0.23
+September,CASE1023,31-07-1997,Indian,Female,DL-1003,Dr. Ahmed Al Farsi,Consultant,Active,0.33
+November,CASE1018,16-11-1987,Bangladeshi,Male,DL-1003,Dr. Ahmed Al Farsi,Consultant,Inactive,0.92
+June,CASE1131,21-05-1959,British,Female,DL-1006,Dr. Fatima Noor,Consultant,On Leave,1.86
+July,CASE1059,22-06-1953,Egyptian,Male,DL-1002,Dr. Sarah Johnson,Specialist,Inactive,1.46
+June,CASE1024,03-08-1977,Emirati,Male,DL-1002,Dr. Sarah Johnson,Specialist,On Leave,1.35
+October,CASE1088,07-06-1952,,,DL-1010,Dr. Lisa Fernandes,Specialist,,
+July,CASE1099,30-06-1982,Egyptian,Male,DL-1002,Dr. Sarah Johnson,Consultant,Active,0.49
+September,CASE1083,20-10-1991,Filipino,Male,DL-1006,Dr. Fatima Noor,Specialist,Inactive,0.59
+January,CASE1089,04-05-1973,Filipino,Female,DL-1003,Dr. Ahmed Al Farsi,Specialist,Inactive,1.42
+November,CASE1113,15-01-1994,American,Male,DL-1003,Dr. Ahmed Al Farsi,Surgeon,Inactive,0.98
+February,CASE1046,02-11-1950,Egyptian,Male,DL-1006,Dr. Fatima Noor,General Physician,On Leave,3.23
+February,CASE1036,16-07-1954,Nepali,Male,DL-1009,Dr. Omar Hassan,General Physician,Active,2.23
+February,CASE1109,12-04-1967,Pakistani,Male,DL-1004,Dr. Priya Sharma,Specialist,Active,1.83
+September,CASE1051,30-10-1993,Saudi,Male,DL-1005,Dr. Michael Chen,General Physician,On Leave,0.58
+December,CASE1078,15-04-1995,Filipino,Female,DL-1010,Dr. Lisa Fernandes,Specialist,On Leave,0.73
+March,CASE1035,28-12-1974,Egyptian,Male,DL-1007,Dr. John Williams,General Physician,Inactive,2.37
+January,CASE1127,04-10-1988,Pakistani,Female,DL-1010,Dr. Lisa Fernandes,General Physician,Active,1.7
+July,CASE1141,29-06-1980,Nepali,Female,DL-1005,Dr. Michael Chen,General Physician,Inactive,0.67
+May,CASE1020,08-07-1980,American,Female,DL-1009,Dr. Omar Hassan,Consultant,Active,0.45
+September,CASE1068,02-06-1961,Emirati,Female,DL-1005,Dr. Michael Chen,Consultant,On Leave,1.14
+May,CASE1085,27-12-1984,,,DL-1006,Dr. Fatima Noor,Consultant,,
+December,CASE1011,28-05-1956,Bangladeshi,Male,DL-1005,Dr. Michael Chen,Specialist,Active,0.47
+July,CASE1012,21-03-1974,Nepali,Male,DL-1008,Dr. Anita Rao,Surgeon,Active,1.47
+February,CASE1097,09-10-2000,Indian,Female,DL-1010,Dr. Lisa Fernandes,Consultant,On Leave,3.8
+June,CASE1145,07-06-1992,Filipino,Female,DL-1001,Dr. Ramesh Kumar,Specialist,Inactive,1.07
+June,CASE1090,06-01-1984,Saudi,Female,DL-1006,Dr. Fatima Noor,Surgeon,Active,2.03
+November,CASE1010,24-09-1982,British,Female,DL-1008,Dr. Anita Rao,Surgeon,Active,0.15
+October,CASE1084,03-10-1951,Bangladeshi,Female,DL-1007,Dr. John Williams,Consultant,Active,0.9
+August,CASE1134,28-01-1987,Indian,Male,DL-1009,Dr. Omar Hassan,Surgeon,On Leave,4.76
+April,CASE1030,18-01-1956,Indian,Female,DL-1001,Dr. Ramesh Kumar,General Physician,On Leave,2.41
+January,CASE1040,17-12-2001,Nepali,Male,DL-1004,Dr. Priya Sharma,Surgeon,Active,1.01
+August,CASE1114,26-07-1980,British,Male,DL-1008,Dr. Anita Rao,Surgeon,Inactive,1.94
+November,CASE1128,09-08-2001,Bangladeshi,Male,DL-1004,Dr. Priya Sharma,Surgeon,On Leave,1.7
+November,CASE1123,01-10-1967,,,DL-1010,Dr. Lisa Fernandes,Specialist,,
+February,CASE1138,26-05-1991,,,DL-1004,Dr. Priya Sharma,Consultant,,
+May,CASE1060,02-06-1970,Emirati,Male,DL-1006,Dr. Fatima Noor,Specialist,Inactive,1.42
+May,CASE1104,26-06-2003,Saudi,Male,DL-1006,Dr. Fatima Noor,Specialist,Active,0.61
+April,CASE1045,30-10-1973,Filipino,Male,DL-1006,Dr. Fatima Noor,Surgeon,Inactive,1.13
+July,CASE1037,27-07-1993,Egyptian,Male,DL-1003,Dr. Ahmed Al Farsi,Consultant,Active,0.56
+December,CASE1125,24-01-2001,Saudi,Female,DL-1010,Dr. Lisa Fernandes,General Physician,Inactive,2.44
+March,CASE1146,24-01-1995,Bangladeshi,Female,DL-1001,Dr. Ramesh Kumar,General Physician,Inactive,1.69
+March,CASE1053,22-08-1989,Nepali,Female,DL-1005,Dr. Michael Chen,General Physician,Active,2.2
+December,CASE1110,10-06-1993,Saudi,Female,DL-1004,Dr. Priya Sharma,General Physician,Active,0.55
+June,CASE1062,23-06-1952,American,Female,DL-1009,Dr. Omar Hassan,Specialist,On Leave,0.83
+May,CASE1049,18-04-1959,British,Female,DL-1009,Dr. Omar Hassan,General Physician,Active,0.98
+May,CASE1031,20-07-1993,Emirati,Male,DL-1004,Dr. Priya Sharma,Consultant,Active,1.48
+March,CASE1112,11-08-1974,Indian,Male,DL-1009,Dr. Omar Hassan,Surgeon,On Leave,1.66
+December,CASE1014,26-03-1978,Emirati,Female,DL-1010,Dr. Lisa Fernandes,Consultant,On Leave,0.97
+February,CASE1096,13-02-2003,Emirati,Male,DL-1004,Dr. Priya Sharma,Surgeon,On Leave,0.63
+June,CASE1056,05-11-1968,Emirati,Male,DL-1001,Dr. Ramesh Kumar,Surgeon,On Leave,2.28
+April,CASE1076,12-10-1965,Nepali,Female,DL-1007,Dr. John Williams,General Physician,On Leave,0.3
+April,CASE1119,06-12-1968,Saudi,Male,DL-1002,Dr. Sarah Johnson,Specialist,Active,1.37
+June,CASE1103,25-04-1966,Egyptian,Male,DL-1008,Dr. Anita Rao,Surgeon,Inactive,0.96
+July,CASE1033,25-11-1991,Indian,Male,DL-1007,Dr. John Williams,General Physician,Inactive,0.66
+June,CASE1081,17-06-1998,American,Male,DL-1006,Dr. Fatima Noor,Specialist,Active,0.52
+August,CASE1017,26-02-1958,Indian,Male,DL-1009,Dr. Omar Hassan,Specialist,On Leave,0.7
+November,CASE1092,12-08-1953,Indian,Male,DL-1002,Dr. Sarah Johnson,Specialist,Active,1.46
+November,CASE1100,26-03-1974,Bangladeshi,Female,DL-1009,Dr. Omar Hassan,Consultant,Inactive,2.03
+May,CASE1101,01-12-1978,Emirati,Male,DL-1010,Dr. Lisa Fernandes,Surgeon,Inactive,2.27
+August,CASE1075,08-11-1985,Emirati,Male,DL-1007,Dr. John Williams,General Physician,Active,2.95
+July,CASE1086,27-07-1993,Indian,Female,DL-1005,Dr. Michael Chen,Surgeon,On Leave,0.37
+November,CASE1002,05-12-1998,American,Female,DL-1002,Dr. Sarah Johnson,General Physician,Active,1.05
+November,CASE1135,28-08-1989,Indian,Male,DL-1008,Dr. Anita Rao,Surgeon,On Leave,0.16
+September,CASE1047,17-10-1973,British,Female,DL-1004,Dr. Priya Sharma,General Physician,Active,1.25
+October,CASE1116,05-04-1977,American,Male,DL-1003,Dr. Ahmed Al Farsi,General Physician,On Leave,1.1
+May,CASE1072,30-03-1996,Bangladeshi,Female,DL-1002,Dr. Sarah Johnson,General Physician,Active,1.46
+February,CASE1115,13-12-1985,Egyptian,Male,DL-1002,Dr. Sarah Johnson,General Physician,Active,1.65
+October,CASE1057,13-11-1963,Emirati,Male,DL-1007,Dr. John Williams,Specialist,Inactive,0.64
+August,CASE1121,17-02-1976,Indian,Male,DL-1010,Dr. Lisa Fernandes,Surgeon,On Leave,0.54
+July,CASE1064,21-05-2004,Nepali,Male,DL-1006,Dr. Fatima Noor,Consultant,On Leave,1.57
+December,CASE1126,10-02-1986,Saudi,Female,DL-1005,Dr. Michael Chen,Consultant,Active,2.4
+August,CASE1019,21-06-1997,Saudi,Male,DL-1010,Dr. Lisa Fernandes,General Physician,On Leave,1.15
+August,CASE1106,20-07-1951,American,Female,DL-1008,Dr. Anita Rao,Specialist,Inactive,1.5
+May,CASE1065,25-12-1953,Filipino,Male,DL-1004,Dr. Priya Sharma,Specialist,Inactive,1.42
+April,CASE1030,18-01-1956,Indian,Female,DL-1001,Dr. Ramesh Kumar,General Physician,On Leave,2.41
+March,CASE1055,23-07-1988,British,Male,DL-1009,Dr. Omar Hassan,Surgeon,Inactive,1.26
+February,CASE1095,01-12-2001,Indian,Female,DL-1005,Dr. Michael Chen,Consultant,Inactive,1.45
+September,CASE1029,24-08-1970,Bangladeshi,Male,DL-1010,Dr. Lisa Fernandes,General Physician,Active,0.8
+October,CASE1117,25-06-2003,Bangladeshi,Male,DL-1007,Dr. John Williams,Consultant,Inactive,0.56
+August,CASE1079,03-04-1973,Emirati,Female,DL-1008,Dr. Anita Rao,Consultant,On Leave,0.25
+April,CASE1045,30-10-1973,Filipino,Male,DL-1006,Dr. Fatima Noor,Surgeon,Inactive,1.13
+March,CASE1050,08-06-1974,Saudi,Male,DL-1009,Dr. Omar Hassan,Surgeon,Active,1.52
+February,CASE1095,01-12-2001,Indian,Female,DL-1005,Dr. Michael Chen,Consultant,Inactive,1.45
+January,CASE1021,18-08-1973,Nepali,Male,DL-1008,Dr. Anita Rao,General Physician,On Leave,2.08
+July,CASE1038,12-03-1950,Filipino,Female,DL-1003,Dr. Ahmed Al Farsi,Consultant,Inactive,0.91
+May,CASE1080,18-06-1989,American,Female,DL-1004,Dr. Priya Sharma,Specialist,Inactive,1.23
+May,CASE1124,05-10-1962,American,Male,DL-1003,Dr. Ahmed Al Farsi,Specialist,Inactive,0.41
+February,CASE1034,22-04-1972,Emirati,Male,DL-1006,Dr. Fatima Noor,Consultant,Active,1.81
+June,CASE1008,18-10-2001,Emirati,Male,DL-1010,Dr. Lisa Fernandes,General Physician,On Leave,1.73
+January,CASE1063,23-09-1959,Bangladeshi,Female,DL-1005,Dr. Michael Chen,Surgeon,On Leave,1.03
+July,CASE1006,05-09-1958,Pakistani,Female,DL-1002,Dr. Sarah Johnson,Surgeon,Active,2.01
+February,CASE1098,24-05-1995,Pakistani,Male,DL-1006,Dr. Fatima Noor,Consultant,Inactive,1.65
+April,CASE1111,18-05-1982,British,Female,DL-1005,Dr. Michael Chen,General Physician,On Leave,0.44
+December,CASE1105,18-06-1986,Egyptian,Male,DL-1004,Dr. Priya Sharma,Consultant,On Leave,1.1
+April,CASE1070,26-07-1988,Bangladeshi,Female,DL-1005,Dr. Michael Chen,Consultant,Inactive,5.11
+January,CASE1091,24-05-1998,Indian,Female,DL-1008,Dr. Anita Rao,Specialist,On Leave,1.7
+July,CASE1130,11-02-1994,American,Female,DL-1010,Dr. Lisa Fernandes,Surgeon,Inactive,2.26
+May,CASE1061,24-03-1956,Saudi,Female,DL-1006,Dr. Fatima Noor,Consultant,On Leave,0.3
+April,CASE1003,15-11-1970,Nepali,Male,DL-1002,Dr. Sarah Johnson,Specialist,On Leave,0.97
+September,CASE1067,30-09-1977,Filipino,Female,DL-1005,Dr. Michael Chen,Consultant,On Leave,0.15
+December,CASE1082,17-09-1963,Emirati,Male,DL-1007,Dr. John Williams,Consultant,Inactive,3.2
+December,CASE1027,19-12-1977,Filipino,Female,DL-1004,Dr. Priya Sharma,Consultant,On Leave,1.07
+June,CASE1143,29-10-1979,Nepali,Female,DL-1008,Dr. Anita Rao,Consultant,Inactive,1.34
+August,CASE1094,27-12-1972,Pakistani,Male,DL-1004,Dr. Priya Sharma,General Physician,Active,1.39
+June,CASE1149,15-11-1997,Filipino,Female,DL-1002,Dr. Sarah Johnson,Consultant,On Leave,0.67
+September,CASE1120,25-09-1956,British,Male,DL-1003,Dr. Ahmed Al Farsi,Consultant,Inactive,0.36
+October,CASE1150,21-02-1956,Emirati,Female,DL-1001,Dr. Ramesh Kumar,Specialist,On Leave,0.36
+September,CASE1139,13-07-1974,,,DL-1005,Dr. Michael Chen,Consultant,,
+June,CASE1108,25-07-1981,Egyptian,Female,DL-1009,Dr. Omar Hassan,Surgeon,Inactive,3.03
+February,CASE1148,14-02-1992,Saudi,Female,DL-1003,Dr. Ahmed Al Farsi,Consultant,On Leave,0.79
+November,CASE1022,19-07-1995,Bangladeshi,Male,DL-1005,Dr. Michael Chen,Specialist,Inactive,0.37
+January,CASE1001,04-09-1974,Emirati,Male,DL-1002,Dr. Sarah Johnson,Specialist,On Leave,1.68
+May,CASE1132,05-12-1985,Nepali,Male,DL-1008,Dr. Anita Rao,Consultant,Active,0.6
+April,CASE1076,12-10-1965,Nepali,Female,DL-1007,Dr. John Williams,General Physician,On Leave,0.3
+May,CASE1107,05-03-2002,Pakistani,Female,DL-1004,Dr. Priya Sharma,Surgeon,Inactive,1.18
